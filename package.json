@@ -1,0 +1,23 @@
+{
+  "name": "shoppinglist",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^2.0.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanbw89/ElectronApp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/seanbw89/ElectronApp/issues"
+  },
+  "homepage": "https://github.com/seanbw89/ElectronApp#readme",
+  "description": ""
+}
